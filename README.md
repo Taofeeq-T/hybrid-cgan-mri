@@ -49,9 +49,14 @@ hybrid-cgan-mri/
 └── results/             # Generated samples and evaluation outputs
 ```
 
-> For convenience, we include:
-> - The **best checkpoint (by FID)** from our experiments  
-> - Sample images generated from this checkpoint
+## 🔗 Pretrained Model
+
+The **best-performing model checkpoint** from our experiments (selected by lowest FID on the validation set) is available here:
+
+👉 **Best Hybrid-cGAN checkpoint:** [https://drive.google.com/file/d/1KWOHqGw4CR_vw3KaRAc2PAvLT5pIrDb8/view?usp=sharing]
+
+This checkpoint can be used directly for evaluation or sample generation.
+
 
 ---
 
