@@ -53,9 +53,10 @@ hybrid-cgan-mri/
 
 The **best-performing model checkpoint** from our experiments (selected by lowest FID on the validation set) is available here:
 
-👉 **Best Hybrid-cGAN checkpoint:** [https://drive.google.com/file/d/1KWOHqGw4CR_vw3KaRAc2PAvLT5pIrDb8/view?usp=sharing]
+👉 **Best Hybrid-cGAN checkpoint:** [link-to-checkpoint](https://drive.google.com/file/d/1KWOHqGw4CR_vw3KaRAc2PAvLT5pIrDb8/view?usp=drive_link)
 
 This checkpoint can be used directly for evaluation or sample generation.
+
 
 
 ---
